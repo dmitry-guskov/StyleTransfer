@@ -1,4 +1,4 @@
-```markdown
+
 # Neural Preset for Color Style Transfer
 
 Neural Preset is a technique that addresses the limitations of existing color style transfer methods, including visual artifacts, memory requirements, and style switching speed. This repository contains the code for implementing Neural Preset for color style transfer using PyTorch.
@@ -69,4 +69,4 @@ If you would like to contribute to this project, please follow these guidelines:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+
